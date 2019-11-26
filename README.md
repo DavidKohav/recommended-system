@@ -1,4 +1,17 @@
 # MovieLens recommended system project
+PIP INSTALL:
+* surprise
+* collections
+* operator
+* numpy
+* math
+* heapq
+* os
+* csv
+* sys
+* pandas
+* datetime
+
  
 ## Similarity metrics
 ברמה גבוהה מאוד זה אומר למצוא אנשים אחרים כמותי ולהמליץ על דברים שהם אהבו. או למצוא דברים אחרים הדומים לדברים שאני אוהב. כלומר, להמליץ על דברים שאנשים קנו בהתאם למוצר שאהבתי. כך או כך, הרעיון הוא לקחת רמזים מאנשים כמוני, מהסביבה שלי, ולהמליץ על דברים על בסיס הדברים שהם אוהבים שעדיין לא ראיתי.

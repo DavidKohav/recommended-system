@@ -11,10 +11,12 @@ PIP INSTALL:
 * sys
 * pandas
 * datetime
-* Create a folder with the name csv_files and download the file from the following link:
+* Create a folder in the root with the name csv_files and download the file from the following link:
 https://drive.google.com/open?id=1xIS4j837OWZm44Fk55SpbUvsEsnUux-O
 
 * Run The m_test.py file to see the resulte
+* Run The m_item_cf.py file to see the item base resulte
+* Run The m_user_cf.py file to see the user base resulte
 
  
 ## Similarity metrics

@@ -1,5 +1,5 @@
 # MovieLens recommended system project
-PIP INSTALL:
+Dependencies:
 * surprise
 * collections
 * operator
@@ -11,8 +11,7 @@ PIP INSTALL:
 * sys
 * pandas
 * datetime
-* Create a folder in the root with the name csv_files and download the file from the following link:
-https://drive.google.com/open?id=1xIS4j837OWZm44Fk55SpbUvsEsnUux-O
+
 
 * Run The m_test.py file to see the resulte
 * Run The m_item_cf.py file to see the item base resulte

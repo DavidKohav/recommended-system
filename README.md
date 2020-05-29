@@ -1,5 +1,5 @@
-# WIP project
-
+# WIP on EN version 
+The He version
 https://docs.google.com/document/d/1IgQcdu6JmzcqHYSXoryMtrV2fiXiC3-cfTQdwkEgLac/edit?usp=sharing
 
 # MovieLens recommended system project
@@ -21,8 +21,6 @@ Dependencies:
 * Run The m_item_cf.py file to see the item base resulte
 * Run The m_user_cf.py file to see the user base resulte
 
-Info
-https://docs.google.com/document/d/1IgQcdu6JmzcqHYSXoryMtrV2fiXiC3-cfTQdwkEgLac/edit?usp=sharing
  
 ## Similarity metrics
 ברמה גבוהה מאוד זה אומר למצוא אנשים אחרים כמותי ולהמליץ על דברים שהם אהבו. או למצוא דברים אחרים הדומים לדברים שאני אוהב. כלומר, להמליץ על דברים שאנשים קנו בהתאם למוצר שאהבתי. כך או כך, הרעיון הוא לקחת רמזים מאנשים כמוני, מהסביבה שלי, ולהמליץ על דברים על בסיס הדברים שהם אוהבים שעדיין לא ראיתי.

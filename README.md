@@ -16,7 +16,7 @@ Dependencies:
 * pandas
 * datetime
 
-
-* Run The m_test.py file to see the resulte
-* Run The m_item_cf.py file to see the item base resulte
-* Run The m_user_cf.py file to see the user base resulte
+### Run with the debugger to see the result:
+* For the main app - m_test.py 
+* For item base - m_item_cf.py 
+* For user base - m_user_cf.py 

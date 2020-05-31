@@ -2,8 +2,8 @@
 The He version
 https://docs.google.com/document/d/1IgQcdu6JmzcqHYSXoryMtrV2fiXiC3-cfTQdwkEgLac/edit?usp=sharing
 
-# MovieLens recommended system project
-Dependencies:
+
+# Download the dependencies:
 * surprise
 * collections
 * operator

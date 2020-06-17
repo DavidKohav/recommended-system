@@ -16,7 +16,7 @@ https://docs.google.com/document/d/1IgQcdu6JmzcqHYSXoryMtrV2fiXiC3-cfTQdwkEgLac/
 * pandas
 * datetime
 
-### Run with the debugger to see the result:
+### Run to see the result:
 * For the main app - m_test.py 
 * For item base - m_item_cf.py 
 * For user base - m_user_cf.py 

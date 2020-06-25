@@ -1,4 +1,4 @@
-# Article WIP   .
+# Article
 Blog: https://www.ai-blog.co.il/2020/06/25/recommender-system/
 
 

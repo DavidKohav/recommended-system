@@ -1,6 +1,5 @@
 # Article WIP   .
-The HE version
-https://docs.google.com/document/d/1IgQcdu6JmzcqHYSXoryMtrV2fiXiC3-cfTQdwkEgLac/edit?usp=sharing
+Blog: https://www.ai-blog.co.il/2020/06/25/recommender-system/
 
 
 # Download the dependencies:
